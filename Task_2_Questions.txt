@@ -1,0 +1,48 @@
+1 - Why do you like to join as a Software developer?
+
+I'm into Software Development because it feels like taking my coding hobby to the next level. 
+Fresh out of college, loving Python, and I've got my hands dirty with web tech.
+Being a Software Developer means blending all that, using my skills, learning more, and diving into interesting projects.
+
+
+
+2 - List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+
+Regarding the top 3 software/tools that inspire me, I would say that Visual Studio Code (VSCode), Replit, and Github are my favorites.
+VSCode is a powerful and versatile code editor that offers a wide range of features and extensions, making it an ideal tool for developers of all levels.
+Replit is a cloud-based development environment that allows developers to write, run, and debug code from anywhere, which is incredibly convenient.
+Finally, Github is a platform that enables developers to collaborate on projects, share code, and contribute to open-source projects, which is a great way to learn and grow as a developer.
+
+
+
+3 - List top 3 organisations you like to join in your career & why you like these organisations.
+
+As for the top 3 organizations that I would like to join, I would say that Google, Apple, and Microsoft are my top choices. 
+These companies are known for their innovative products and services, and I believe that working for them would be an incredible opportunity to learn and grow as a developer.
+Additionally, these companies have a strong culture of collaboration and innovation, which is something great.
+
+
+4 - How you position yourself in this industry after 2 years.
+
+In terms of positioning myself in the industry after 2 years, I see myself as a skilled and experienced developer who is capable of creating innovative solutions.
+I plan to continue learning and growing as a developer, and I hope to contribute to open-source projects and collaborate with other developers to create innovative solutions that can make a difference in the world.
+I am excited about the possibilities that the future holds, and I am eager to see where my career in software development will take me.
+
+
+
+5 - List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+
+i. TODO WebApp
+   - Description: I developed a task management web application using HTML, CSS, and JavaScript.
+   - Functionality: Users can add, edit, and mark tasks as completed. The JavaScript component focused on creating dynamic elements for seamless user interaction.
+   - My Role: I led the development of the entire project, emphasizing dynamic functionality through JavaScript.
+
+ii. Online Compiler WebApp
+   - Description: I engineered an online code compiler web application using HTML, CSS, and JavaScript.
+   - Functionality: Users can write, compile, and view code output. The app features a language selection dropdown for versatile coding.
+   - My Role: I took full ownership of the project, ensuring a smooth user experience during code writing and testing.
+
+iii. Stopwatch WebApp
+   - Description: I crafted a stopwatch web application with HTML, CSS, and JavaScript.
+   - Functionality: Users can initiate, record lap times, and restart the stopwatch. It serves as a practical tool for time measurement.
+   - My Role: I was responsible for the design and implementation of stopwatch functionality, optimizing user interactions.
